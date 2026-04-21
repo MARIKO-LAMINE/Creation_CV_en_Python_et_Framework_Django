@@ -109,8 +109,3 @@ Concevoir une interface ergonomique et responsive
 
 MARIKO LAMINE
 Projet académique – Licence 3 Informatique
-🌍 Une version en anglais
-
-Tu veux quelle version ?
-
-Is this conversation helpful so far?
